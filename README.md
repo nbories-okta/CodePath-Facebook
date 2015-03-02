@@ -2,7 +2,7 @@ Facebook - assignment 4
 ========================
 
 Objective: simulate facebook
-Hours: 8-9 hours
+Hours: 9 hours
 
 
 Walkthrough of Mailbox:
